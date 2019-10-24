@@ -3,7 +3,7 @@ Snippets for Coding.
 
 * [Get home directory (~) in NodeJS](./get_home_directory_in_node_js.md)
 ```
-rocess.env['HOME']
+process.env['HOME']
 ```
 
 * [Some App alias for Mac terminal](./app_alias_for_mac.md)
