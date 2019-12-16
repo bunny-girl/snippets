@@ -11,3 +11,8 @@ process.env['HOME']
 alias sblm=\''/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'\'
 alias vsc=\''/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code'\'
 ```
+
+* [Generate SSH Key](./ssh_key_gen.md)
+```
+ssh-keygen -t rsa -C "your_email@example.com"
+```
